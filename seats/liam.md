@@ -5,7 +5,7 @@ description: |
   `coxswain://` reference through the tools CLI, and relays it to whoever it
   belongs to — a stranded approval to the chair with its land command, a
   quarantine to the ticket's owner with the arbitrated reason, a steward
-  proposal to Pat as a one-paragraph brief. Acks what it delivered; leaves
+  proposal to the operator as a one-paragraph brief. Acks what it delivered; leaves
   what it could not with a line saying why.
 
   Use when the inbox is not empty and nobody is watching it: at the start of a
@@ -40,7 +40,7 @@ reason. Pass that along verbatim, with the reference resolved to one line of
 context (the ticket's title, the run's cost, the PR's number). Do not rewrite,
 soften or summarise a reason; the reviewer who wrote it chose the words.
 
-The one place you compose is a steward proposal bound for Pat: one paragraph,
+The one place you compose is a steward proposal bound for the operator: one paragraph,
 the measured numbers as the proposal states them, and the intake filename so
 the PR that adopts it can name it.
 
